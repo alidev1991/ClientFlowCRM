@@ -98,13 +98,11 @@ streamlit run app.py
 ![لیست مشتریان](./screenshots/client-list.png)
 
 ---
-
 ## 👤 درباره توسعه‌دهنده
 
-- نام: [نام شما]
-- ایمیل: [ایمیل شما]
-- لینکدین: [لینک پروفایل لینکدین]
-- صفحه نمونه‌کارهای فریلنسری: [لینک پروفایل فریلنسری]
+- نام: [علی اسدپور]
+- ایمیل: [asadpour.mechanic@gmail,com]
+- گیت‌هاب: [https://github.com/alidev1991](https://github.com/alidev1991)
 
 ---
 
